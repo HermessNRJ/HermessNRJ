@@ -1,16 +1,63 @@
-### Hi there 👋
+# Rémi BOIDET
 
-<!--
-**HermessNRJ/HermessNRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[FB_Remi]: https://www.facebook.com/remi.boidet/
+[Linkedin_Remi]: https://www.linkedin.com/in/r%C3%A9mi-boidet/
+[Insta_Remi]: https://www.instagram.com/hermess_nrj/
+[Twitter_Remi]: https://twitter.com/HermesNrj
 
-Here are some ideas to get you started:
+### Hi, I'm Rémi 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently in the last year of the engineering cycle at ESIEE Paris in <b>Information systems cybersecurity </b>
+- I'm living in Paris and near Valence in Drôme
+- I’m looking for a 6 months internship from February 2021 to July 2021
+
+### Connect with me:
+
+[<img align="left" alt="Rémi BOIDET | Facebook" width="22px" src="https://www.u-paris2.fr/sites/default/files/photo_image/icone-facebook-ronde.png" />][FB_Remi]
+[<img align="left" alt="Rémi BOIDET | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][Linkedin_Remi]
+[<img align="left" alt="Rémi BOIDET | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][Insta_Remi]
+[<img align="left" alt="Rémi BOIDET | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][Twitter_Remi]
+
+<br />
+<br />
+
+
+## Languages and tools
+
+### Languages :
+
+[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />][Linkedin_Remi]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Linkedin_Remi]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Linkedin_Remi]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Linkedin_Remi]
+[<img align="left" alt="C" width="26px" src="https://www.hello-pomelo.com/wp-content/uploads/2019/11/C-logo-1024x1024.png" />][Linkedin_Remi]
+[<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Linkedin_Remi]
+<br />
+
+### Engineering tools :
+
+[<img align="left" alt="Docker" width="26px" src="https://www.karlsjohnson.com/link/images/dockerhub.png" />][Linkedin_Remi]
+[<img align="left" alt="Flask" width="26px" src="https://www.ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />][Linkedin_Remi]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" />][Linkedin_Remi]
+<br />
+
+
+### Cyber tools :
+
+
+<br />
+
+
+### Others dev tools :
+
+[<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" />][Linkedin_Remi]
+[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][Linkedin_Remi]
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" />][Linkedin_Remi]
+
+<br />
+<br />
+
+***
+
+<img align="left" alt="Stats github Rémi" src="https://github-readme-stats.vercel.app/api?username=HermessNRJ&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark" />
+
