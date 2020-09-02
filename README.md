@@ -11,11 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rémi BOIDET | Facebook" width="24px" src="./img/facebook.svg" />][FB_Remi]
-
-[<img align="left" alt="Rémi BOIDET | LinkedIn" width="24px" src="./img/linkedin.svg" />][Linkedin_Remi]
-[<img align="left" alt="Rémi BOIDET | Instagram" width="24px" src="./img/instagram.svg" />][Insta_Remi]
-[<img align="left" alt="Rémi BOIDET | Twitter" width="24px" src="./img/twitter.svg" />][Twitter_Remi]
+[<img align="left" alt="Rémi BOIDET | Facebook" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/facebook.svg" />][FB_Remi]
+[<img align="left" alt="Rémi BOIDET | LinkedIn" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/linkedin.svg" />][Linkedin_Remi]
+[<img align="left" alt="Rémi BOIDET | Instagram" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/instagram.svg" />][Insta_Remi]
+[<img align="left" alt="Rémi BOIDET | Twitter" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/twitter.svg" />][Twitter_Remi]
 
 <br />
 <br />
@@ -25,37 +24,37 @@
 
 ### Languages :
 
-[<img align="left" alt="Python" width="24px" src="./img/python.svg" />][Linkedin_Remi]
-[<img align="left" alt="HTML 5" width="24px" src="./img/html-5.svg" />][Linkedin_Remi]
-[<img align="left" alt="CSS 3"  width="24px" src="./img/css.svg" />][Linkedin_Remi]
-[<img align="left" alt="JavaScript" width="24px" src="./img/js.svg" />][Linkedin_Remi]
-[<img align="left" alt="C" width="24px" src="./img/c.svg" />][Linkedin_Remi]
-[<img align="left" alt="BASH" width="24px" src="./img/terminal.svg" />][Linkedin_Remi]
+[<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/python.svg" />][Linkedin_Remi]
+[<img align="left" alt="HTML 5" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/html-5.svg" />][Linkedin_Remi]
+[<img align="left" alt="CSS 3"  width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/css.svg" />][Linkedin_Remi]
+[<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/js.svg" />][Linkedin_Remi]
+[<img align="left" alt="C" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/c.svg" />][Linkedin_Remi]
+[<img align="left" alt="BASH" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/terminal.svg" />][Linkedin_Remi]
 <br />
 
 ### Engineering tools :
 
-[<img align="left" alt="Docker" width="24px" src="./img/docker.svg" />][Linkedin_Remi]
-[<img align="left" alt="Flask" width="24px" src="./img/flask.svg" />][Linkedin_Remi]
-[<img align="left" alt="Bootstrap" width="24px" src="./img/bootstrap.svg" />][Linkedin_Remi]
+[<img align="left" alt="Docker" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/docker.svg" />][Linkedin_Remi]
+[<img align="left" alt="Flask" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/flask.svg" />][Linkedin_Remi]
+[<img align="left" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/bootstrap.svg" />][Linkedin_Remi]
 <br />
 
 
 ### Cyber tools :
 
-[<img align="left" alt="Kali" width="24px" src="./img/kali.svg" />][Linkedin_Remi]
-[<img align="left" alt="John the ripper" width="24px" src="./img/john.png" />][Linkedin_Remi]
-[<img align="left" alt="Wireshark" width="24px" src="./img/wireshark.svg" />][Linkedin_Remi]
-[<img align="left" alt="Metasploit" width="22px" src="./img/metasploit.png" />][Linkedin_Remi]
+[<img align="left" alt="Kali" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/kali.svg" />][Linkedin_Remi]
+[<img align="left" alt="John the ripper" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/john.png" />][Linkedin_Remi]
+[<img align="left" alt="Wireshark" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/wireshark.svg" />][Linkedin_Remi]
+[<img align="left" alt="Metasploit" width="22px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/metasploit.png" />][Linkedin_Remi]
 
 <br />
 
 
 ### Others dev tools :
 
-[<img align="left" alt="Visual Studio Code" width="24px" src="./img/visual_studio_code.svg" />][Linkedin_Remi]
-[<img align="left" alt="Git" width="24px" src="./img/git.svg" />][Linkedin_Remi]
-[<img align="left" alt="GitHub" width="24px" src="./img/github.svg" />][Linkedin_Remi]
+[<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/visual_studio_code.svg" />][Linkedin_Remi]
+[<img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/git.svg" />][Linkedin_Remi]
+[<img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/github.svg" />][Linkedin_Remi]
 
 <br />
 <br />
