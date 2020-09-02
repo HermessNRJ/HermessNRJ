@@ -13,10 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rémi BOIDET | Facebook" width="22px" src="https://www.u-paris2.fr/sites/default/files/photo_image/icone-facebook-ronde.png" />][FB_Remi]
-[<img align="left" alt="Rémi BOIDET | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][Linkedin_Remi]
-[<img align="left" alt="Rémi BOIDET | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][Insta_Remi]
-[<img align="left" alt="Rémi BOIDET | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][Twitter_Remi]
+[<img align="left" alt="Rémi BOIDET | Facebook" width="24px" src="./img/facebook.svg" />][FB_Remi]
+
+[<img align="left" alt="Rémi BOIDET | LinkedIn" width="24px" src="./img/linkedin.svg" />][Linkedin_Remi]
+[<img align="left" alt="Rémi BOIDET | Instagram" width="24px" src="./img/instagram.svg" />][Insta_Remi]
+[<img align="left" alt="Rémi BOIDET | Twitter" width="24px" src="./img/twitter.svg" />][Twitter_Remi]
 
 <br />
 <br />
