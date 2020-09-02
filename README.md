@@ -1,13 +1,15 @@
+# Rémi BOIDET
+
 [FB_Remi]: https://www.facebook.com/remi.boidet/
 [Linkedin_Remi]: https://www.linkedin.com/in/r%C3%A9mi-boidet/
 [Insta_Remi]: https://www.instagram.com/hermess_nrj/
 [Twitter_Remi]: https://twitter.com/HermesNrj
 
-# Hi, I'm Rémi 👋
+### Hi, I'm Rémi 👋
 
 ## I'm currently in the last year of the engineering cycle at ESIEE Paris in <b>Information systems cybersecurity </b>
 - I'm living in Paris and near Valence in Drôme
-- I’m looking for a <b>6 months internship from February 2021 to July 2021</b>
+- I’m looking for a 6 months internship from February 2021 to July 2021
 
 ### Connect with me:
 
@@ -30,6 +32,7 @@
 [<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/js.svg" />][Linkedin_Remi]
 [<img align="left" alt="C" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/c.svg" />][Linkedin_Remi]
 [<img align="left" alt="BASH" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/terminal.svg" />][Linkedin_Remi]
+
 <br />
 
 ### Engineering tools :
@@ -37,8 +40,8 @@
 [<img align="left" alt="Docker" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/docker.svg" />][Linkedin_Remi]
 [<img align="left" alt="Flask" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/flask.svg" />][Linkedin_Remi]
 [<img align="left" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/HermessNRJ/HermessNRJ/master/img/bootstrap.svg" />][Linkedin_Remi]
-<br />
 
+<br />
 
 ### Cyber tools :
 
