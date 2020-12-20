@@ -7,7 +7,6 @@
 
 ## I'm currently in the last year of the engineering cycle at ESIEE Paris in <b>Information systems cybersecurity </b>
 - I'm living in Paris and near Valence in Drôme
-- I’m looking for a <b>6 months internship from February 2021 to July 2021</b>
 
 ### Connect with me:
 
