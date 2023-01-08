@@ -5,8 +5,7 @@
 
 # Hi, I'm Rémi 👋
 
-## I am currently a future graduate of an engineering degree from ESIEE Paris in Cybersecurity of information systems. I am currently working in <b>the Micro-SOC of Orange Cyberdefense.</b>
-- I'm living in Paris and near Valence in Drôme
+## I have an engineering degree in Cybersecurity of information systems from ESIEE Paris and I am currently working in <b>the Micro-SOC of Orange Cyberdefense</b>.
 
 ### Connect with me:
 
